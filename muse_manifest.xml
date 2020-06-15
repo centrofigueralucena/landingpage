@@ -1,0 +1,62 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="especialidades.com" resolutions="1x" timestamp="1592251837653">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-p_g_-maestra.css" crc="3815485403" ref="index"/>
+    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="3824530138" ref="index"/>
+    <file name="index.css" crc="3901429096" ref="index"/>
+    <file name="nomq_index.css" crc="436497983" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="168988563" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="logo 2.png" crc="4180765457" seo="true" ref="index"/>
+    <file name="whatsapp-crop-u220.png" crc="4271423044" ref="index"/>
+    <file name="imagen ppal .jpg" crc="4260231876" seo="true" ref="index"/>
+    <file name="u20676-4.png" crc="203911845" ref="index"/>
+    <file name="dolor.png" crc="4183855746" seo="true" ref="index"/>
+    <file name="mejora7.png" crc="4013518676" seo="true" ref="index"/>
+    <file name="tiempo.png" crc="437531693" seo="true" ref="index"/>
+    <file name="ucla 3.png" crc="505194621" seo="true" ref="index"/>
+    <file name="hpo 1.png" crc="3820039146" seo="true" ref="index"/>
+    <file name="senescyt 1.png" crc="414257746" seo="true" ref="index"/>
+    <file name="acess1.png" crc="351820053" seo="true" ref="index"/>
+    <file name="ms1.png" crc="332374860" seo="true" ref="index"/>
+    <file name="ceaaces 1.png" crc="3966994845" seo="true" ref="index"/>
+    <file name="whatsapp-crop-u487.png" crc="260506829" ref="index"/>
+    <file name="539613_10201191222128437_1593915454_n.jpg" crc="212391438" ref="index"/>
+    <file name="13064619_10153722425204247_1827160990821874282_o.jpg" crc="4012843506" ref="index"/>
+    <file name="17951854_10213043111059417_6461134273037716864_n-u532-fr.jpg" crc="440985952" ref="index"/>
+    <file name="logo.png" crc="463006011" seo="true" ref="index"/>
+    <file name="whatsapp-crop-u5270.png" crc="4271423044" ref="index"/>
+    <file name="whatsapp.png" crc="325577251" seo="true" ref="index"/>
+    <file name="17951854_10213043111059417_6461134273037716864_n-u532-fr2.jpg" crc="3807314112" ref="index"/>
+    <file name="imagen ppal -crop-u2388.jpg" crc="90494371" ref="index"/>
+    <file name="whatsapp-crop-u2394.png" crc="418964698" ref="index"/>
+    <file name="whatsapp-crop-u17306.png" crc="418964698" ref="index"/>
+    <file name="539613_10201191222128437_1593915454_n-u3036-fr.jpg" crc="3974085163" ref="index"/>
+    <file name="13064619_10153722425204247_1827160990821874282_o-u3037-fr.jpg" crc="458034736" ref="index"/>
+    <file name="17951854_10213043111059417_6461134273037716864_n-u3038-fr.jpg" crc="3935850461" ref="index"/>
+    <file name="imagen ppal -crop-u10280.jpg" crc="4247357202" ref="index"/>
+    <file name="whatsapp-crop-u23942.png" crc="418964698" ref="index"/>
+    <file name="whatsapp-crop-u12251.png" crc="3930321712" ref="index"/>
+    <file name="539613_10201191222128437_1593915454_n-u3036-fr2.jpg" crc="49786" ref="index"/>
+    <file name="13064619_10153722425204247_1827160990821874282_o-u3037-fr2.jpg" crc="3901161732" ref="index"/>
+    <file name="17951854_10213043111059417_6461134273037716864_n-u3038-fr2.jpg" crc="4208972170" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u27079-4.png" crc="203911845" ref="index"/>
+    <file name="u27079-42.png" crc="209145767" ref="index"/>
+    <file name="ucla 3-crop-u11656.png" crc="3921401978" ref="index"/>
+    <file name="hpo 1-crop-u11653.png" crc="4235445441" ref="index"/>
+    <file name="acess1-crop-u11662.png" crc="3981430591" ref="index"/>
+    <file name="ms1-crop-u11665.png" crc="73806401" ref="index"/>
+  </folder>
+  <file name="index.html" crc="22938360" seo="true" mt="1592251493225" redirect="true"/>
+</manifest>
